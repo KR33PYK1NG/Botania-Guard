@@ -1,0 +1,22 @@
+{
+    "minVersion": "0.8",
+    "refmap": "botania-guard.refmap.json",
+    "package": "rmc.mixins.botania_guard.inject",
+    "mixins": [
+        "BlockForestDrumMixin",
+        "EntityEnderAirBottleMixin",
+        "EntityManaBurstMixin",
+        "EntityThornChakramMixin",
+        "EntityVineBallMixin",
+        "ItemElementiumShearsMixin",
+        "ItemExchangeRodMixin",
+        "ItemGravityRodMixin",
+        "ItemHornMixin",
+        "SubTileBellethornMixin",
+        "SubTileClayconiaMixin",
+        "SubTileHyacidusMixin",
+        "SubTileMarimorphosisMixin",
+        "SubTileRannuncarpusMixin",
+        "TileTinyPlanetMixin"
+    ]
+}
